@@ -1,2 +1,1 @@
-javac UVK5ScreenReader.java
-start cmd.exe
+start cmd.exe /k javac UVK5ScreenReader.java
