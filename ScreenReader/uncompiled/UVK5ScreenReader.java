@@ -57,7 +57,7 @@ public class UVK5ScreenReader
             }
             else
             {
-                System.out.println("Error: likely due to incorrect COM port, COM port in use, or Python + pyserial not installed.");
+                System.out.println("Error: likely due to incorrect COM port, COM port in use, or Python + pyserial not installed.\nCOM port: " + COM_PORT);
                 System.exit(0);
             }
         }
