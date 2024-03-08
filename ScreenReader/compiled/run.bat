@@ -1,1 +1,1 @@
-start cmd.exe /k java UVK5ScreenReader
+start cmd.exe /k java UVK5ScreenReader NOPORT
