@@ -1,4 +1,4 @@
-Dumps the data stored in the part of RAM used to display the screen, converts it to an image, and displays it in a JFrame. It does this a specified number of times per second.
+Dumps the data stored in the part of RAM used to display the screen, converts it to an image, and displays it in a JFrame. It does this a specified number of times per second. This data is accessed via the standard programming cable normally used to flash firmware and the EEPROM.
 
 Usage: java UVK5ScreenReader.java COMx
 Requirements: Python, pyserial, Java
